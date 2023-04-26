@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028345346431",
+    "project_id": "menta-dev",
+    "storage_bucket": "menta-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028345346431:android:e7cb52dfb93ee1ef94c24a",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028345346431-4lkqgiql2gabfv7upnkaf910e6fpdniq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobile_app",
+            "certificate_hash": "7de3a88a41f428d4784e7cee7668ecaa233b5704"
+          }
+        },
+        {
+          "client_id": "1028345346431-3nbnjhmcqljveujld1ak2ev3km02q9tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi9zYCwNLJJGJXU0w63-Vi74BQ6BXcqvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028345346431-3nbnjhmcqljveujld1ak2ev3km02q9tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
