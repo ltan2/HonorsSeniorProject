@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDJS6px6BBiZqdQ--wzgipNvwhpG4-XjvQ',
-    appId: '1:1028345346431:web:79e89a634ac9f98094c24a',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1028345346431',
     projectId: 'menta-dev',
     authDomain: 'menta-dev.firebaseapp.com',
@@ -54,16 +54,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAi9zYCwNLJJGJXU0w63-Vi74BQ6BXcqvw',
-    appId: '1:1028345346431:android:e7cb52dfb93ee1ef94c24a',
+    apiKey: "",
+    appId: '',
     messagingSenderId: '1028345346431',
     projectId: 'menta-dev',
     storageBucket: 'menta-dev.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCw--JLb053XtfwnNT4v_z2STIsaY5bc8M',
-    appId: '1:1028345346431:ios:b16e01cf394c0af094c24a',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1028345346431',
     projectId: 'menta-dev',
     storageBucket: 'menta-dev.appspot.com',
@@ -73,8 +73,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCw--JLb053XtfwnNT4v_z2STIsaY5bc8M',
-    appId: '1:1028345346431:ios:b16e01cf394c0af094c24a',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1028345346431',
     projectId: 'menta-dev',
     storageBucket: 'menta-dev.appspot.com',
